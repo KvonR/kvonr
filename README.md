@@ -1,9 +1,14 @@
-<h1 align="center">Hello World, I'm Kevin Rahimi 👋</h1>
-<h3 align="center">CS Graduate • Fitness App Dev • AI Curious 💪</h3>
+<h1 align="center">Hello World, I'm KvonR👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Graduate+%E2%80%A2+AI+Curious+%E2%80%A2+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;Bench+130kg+%F0%9F%92%AA+but+still+learning+daily+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+<h3 align="center">CS Graduate • Fitness App Dev • AI Curious • Bench 130kg 💪</h3>
 
 <p align="center">
   🛠️ Currently building a fitness app using AI + React Native<br>
-  🎓 BSc Computer Science (1st Class) degree<br>
+  🎓 BSc Computer Science @ University of Liverpool (1st Class)<br>
   🎯 On a mission to build cool stuff and always keep learning!
 </p>
 
@@ -25,7 +30,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats - Doesn't show correct stats (ノಠ益ಠ)ノ彡┻━┻ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KvonR&show_icons=true&theme=radical&count_private=true" alt="KvonR GitHub Stats" />
@@ -44,5 +49,6 @@
 ---
 
 <p align="center">
-  <i>“Stay hungry. Stay foolish.” – Steve Jobs</i>
+  <i>“Success is not final, failure is not fatal: it is the courage to continue that counts.”</i><br>
+  — <strong>Winston Churchill</strong>
 </p>
