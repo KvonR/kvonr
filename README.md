@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kevin Rahimi 👋</h1>
+<h1 align="center">Hello World, I'm Kevin Rahimi 👋</h1>
 <h3 align="center">CS Graduate • Fitness App Dev • AI Curious 💪</h3>
 
 <p align="center">
