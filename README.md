@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 The Legendary GitHub Snake (don't touch it 🐍😎)
+## 🐍 The Legendary GitHub Snake (don't touch, it bites 🐍😎)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvonr/kvonr/output/github-snake-dark.svg" />
