@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=CS+Graduate+•+AI+Curious+•+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;+still+learning+daily+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=CS+Graduate+•+AI+Curious+•+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;+Still+Learning+Daily+📚" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">CS Graduate • Fitness App Dev • AI Curious 3>
+<h3 align="center">I love being a developer 3>
 
 <p align="center">
   🛠️ Currently building a fitness app using AI + React Native<br>
