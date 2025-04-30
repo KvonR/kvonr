@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer with a Computer Science degree</h3>
 
 - 🔭 I’m currently working on **an AI-powered fitness app using React Native**
-- 🌱 I’m learning **Spring Boot, React Native, and Python automation**
+- 🌱 I’m learning **React Native, and Python automation**
 - 👯 I’m looking to collaborate on **AI + fitness-based mobile apps**
 - 🤝 I’m open to help with **Java, Laravel, and Python projects**
 - 📫 How to reach me: **kvonr.dev[at]gmail.com**
-- ⚡ Fun fact: I can bench 130kg but can't do a handstand yet 😅
+- ⚡ Fun fact: I can bench 130kg t 😅
 
 ### 🛠️ Languages and Tools
 <p align="left">
