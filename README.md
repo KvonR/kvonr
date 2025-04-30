@@ -1,10 +1,9 @@
 <h1 align="center">Hey there, I'm Kevin Rahimi 👋</h1>
-<h3 align="center">CS Graduate • Fitness App Dev • AI Curious • Bench 130kg 💪</h3>
+<h3 align="center">CS Graduate • Fitness App Dev • AI Curious 💪</h3>
 
 <p align="center">
   🛠️ Currently building a fitness app using AI + React Native<br>
-  🎓 BSc Computer Science @ University of Liverpool (1st Class)<br>
-  💼 Former Magento Developer at Jalebit LTD<br>
+  🎓 BSc Computer Science (1st Class) degree<br>
   🎯 On a mission to build cool stuff and always keep learning!
 </p>
 
