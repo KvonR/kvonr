@@ -1,7 +1,9 @@
 <h1 align="center">Hello World, I'm KvonR👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Graduate+%E2%80%A2+AI+Curious+%E2%80%A2+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;Bench+130kg+%F0%9F%92%AA+but+still+learning+daily+%F0%9F%93%9A" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Graduate+•+AI+Curious+•+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;Bench+130kg+💪+but+still+learning+daily+📚" alt="Typing SVG" />
+  </a>
 </p>
 
 <h3 align="center">CS Graduate • Fitness App Dev • AI Curious • Bench 130kg 💪</h3>
