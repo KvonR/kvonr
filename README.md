@@ -1,10 +1,10 @@
 <h1 align="center">Hello World -- I'm KvonR👋</h1>
 
-#<p align="center">
-#  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-#    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=CS+Graduate+•+AI+Curious+•+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;+Still+Learning+Daily+📚" alt="Typing SVG" />
-#  </a>
-#</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=CS+Graduate+•+AI+Curious+•+Fitness+App+Dev;React+Native+%7C+Python+%7C+Java+%7C+More;+Still+Learning+Daily+📚" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">I love being a developer 3>
 
